@@ -1,4 +1,7 @@
-### Hi there 👋
+### Welcome to my swamp!
+
+So... to sum up, I'm a freelancer and consultant, specializing in Frontend and UX but as an extension, am also capable of carrying out Fullstack applications in the JS/TS Node/Deno/Bun space. Most of my repos are private since they deal with my main side-project [sic.place](https://sic.place) - do feel free to join and say hello.
+
 
 <!--
 **eliranbenishai/eliranbenishai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
